@@ -1,0 +1,11 @@
+# Informes de película de la IDE Flash (basura de compilado)
+*Report.txt
+
+# FLA de variantes (duplicados del documento principal; se compilan solo sus SWF)
+completo/bosch_completo.fla
+solo120f/bosch_120f.fla
+
+# Basura de sistema
+Thumbs.db
+._*
+.DS_Store
